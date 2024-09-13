@@ -1,0 +1,49 @@
+.question-card {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+  }
+  
+  .options-container {
+    margin: 10px 0;
+  }
+  
+  .option-block {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .option-block input {
+    margin-right: 10px;
+  }
+  
+  .buttons-container {
+    margin-top: 20px;
+    text-align: right;
+  }
+  
+  .btn {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .btn:hover {
+    background-color: #45a049;
+  }
+  
+  .submit-btn {
+    background-color: #2196f3;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0b7dda;
+  }
+  
